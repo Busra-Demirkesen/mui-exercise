@@ -23,6 +23,7 @@ const MuiSelect = () => {
         size='small'
         color='secondary'
         helperText='please select your country'
+        error
       >
         <MenuItem value="IN">India</MenuItem>
         <MenuItem value="US">USA</MenuItem>
